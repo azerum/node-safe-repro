@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "req": "request"
+  },
   "dependencies": {
     "package-with-net": "file:../package-with-net"
   }
