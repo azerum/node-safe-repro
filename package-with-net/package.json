@@ -1,0 +1,8 @@
+{
+    "name": "package-with-net",
+    "version": "0.0.1",
+
+    "bin": {
+        "request": "./request.js"
+    }
+}

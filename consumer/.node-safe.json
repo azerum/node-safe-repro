@@ -1,0 +1,10 @@
+{
+    "$schema": "https://repo.node-safe.com/schema/node-safe.schema.json",
+    "$readme": "https://github.com/berstend/node-safe#readme",
+
+    "node": {
+        "allow-read": true,
+        "allow-run": true,
+        "allow-net": false
+    }
+}
